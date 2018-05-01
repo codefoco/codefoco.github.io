@@ -1,4 +1,4 @@
-codefoco.github.io
+codefoco.com
 ==================
 
 Codefoco.com website.
